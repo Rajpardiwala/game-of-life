@@ -495,4 +495,13 @@
             </reporting>
         </profile>
     </profiles>
+	<distribitionManagement>
+	
+		<repository>
+			<id>release</id>
+			<name>Raj_host-Snapshot<name>
+			<url>http://localhost:8081/repository/Raj_host-Snapshot/<url>
+		</repository>
+		
+	</distribitionManagement>
 </project>
